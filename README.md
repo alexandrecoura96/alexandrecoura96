@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there, I`m Alexandre 👋</h1>
+<h1 align="center"> Hey there, I'm Alexandre 👋</h1>
 <p align="center">A mobile and web developer from Brazil.</p>
 
 I'm a React Native developer who loves creating awesome apps that help solve real-world problems. I'm passionate about learning new things and always striving to improve my skills.
